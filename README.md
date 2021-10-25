@@ -6,7 +6,7 @@
 
 [![Priiiiyo](https://www.linkpicture.com/q/@HUNTER-GAMING.png)
 
-# Priiiiyo Mirror Bot
+# Abhisek Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/PriiiiyoDevs/priiiiyo-mirrorbot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/PriiiiyoDevs/priiiiyo-mirrorbot?color=green&style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/PriiiiyoDevs/priiiiyo-mirrorbot?style=flat)
