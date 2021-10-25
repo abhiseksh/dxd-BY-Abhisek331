@@ -4,7 +4,7 @@
 ##CONTACT INSTAGRAM
 -USE THIS LINK TO 📞 [INSTA LINK](https://www.instagram.com/abhisekmajumder331/)
 
-[![Priiiiyo](https://telegra.ph/file/b5d9a2910d65ce0596f59.jpg)](https://t.me/priiiiyo)
+[![Priiiiyo](https://www.linkpicture.com/q/@HUNTER-GAMING.png)
 
 # Priiiiyo Mirror Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/PriiiiyoDevs/priiiiyo-mirrorbot?color=blue&style=flat)
