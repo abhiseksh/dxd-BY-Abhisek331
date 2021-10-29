@@ -58,11 +58,12 @@ APM, ARJ, CHM, CPIO, CramFS, DEB, DMG, FAT,
 HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS, 
 NTFS, RPM, SquashFS, UDF, VHD, XAR, Z, tar.xz
 ```
-## 1ST DDeploying on Heroku
--upload token pickle 
--upload json file
--edit config.env file
--setting than secreat than follow 2ND method
+## 1ST Deploying on Heroku
+- FORK THE REPO
+- UPLOAD token.pickle FILE
+- UPLOAD credentials.JSON FILE
+- EDIT config.env FILE.(OWN DETAILS)
+- THAN FOLLOW 2ND METHOD ⬇️⬇️
 
 ## 2ND Deploying on Heroku
 - Deploying on Heroku with Github Workflow
