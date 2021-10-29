@@ -1,7 +1,7 @@
-##CONTACT
+## CONTACT
 ••¤(`×  🎀  - [𝒳] 𝒯𝑒𝓁𝑒𝑔𝓇𝒶𝓂  🎀  ×`(¤•• --- 9732390526
 
-##CONTACT INSTAGRAM
+## CONTACT INSTAGRAM
 -USE THIS LINK TO 📞 [INSTA LINK](https://www.instagram.com/abhisekmajumder331/)
 
 [![Priiiiyo](https://www.linkpicture.com/q/@HUNTER-GAMING.png)
