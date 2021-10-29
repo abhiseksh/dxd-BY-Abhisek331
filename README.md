@@ -58,11 +58,17 @@ APM, ARJ, CHM, CPIO, CramFS, DEB, DMG, FAT,
 HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS, 
 NTFS, RPM, SquashFS, UDF, VHD, XAR, Z, tar.xz
 ```
+## 1ST DDeploying on Heroku
+-upload token pickle 
+-upload json file
+-edit config.env file
+-setting than secreat than follow 2ND method
 
-## Deploying on Heroku
+## 2ND Deploying on Heroku
 - Deploying on Heroku with Github Workflow
 <p><a href="https://telegra.ph/Heroku-Deployment-10-04"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 - Deploying on Heroku with heroku-cli and Goorm IDE
 <p><a href="https://telegra.ph/How-to-Deploy-a-Mirror-Bot-to-Heroku-with-CLI-05-06"> <img src="https://img.shields.io/badge/Deploy%20Guide-grey?style=for-the-badge&logo=telegraph" width="170""/></a></p>
 
+###ENJOY UR BOT
